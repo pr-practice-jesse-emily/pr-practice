@@ -2,7 +2,7 @@ Question 1: What is your favorite color? Charcoohie
 
 Question 2: What is your favorite programming language? sudo code
 
-Question 3: What is your favorite food?
+Question 3: What is your favorite food? Spaghetti
 
 Question 4: What is your favorite movie?
 
